@@ -42,4 +42,6 @@
 🎮 In my free-time i'm gaming. Play on Xbox and PC</b>
 
 <h2> 🤳 Connect with me:</h2>
-</b>📧Gmail: Romanooooov@gmail.com</b>
+</b>Gmail: Romanooooov@gmail.com</b> <br>
+    LinkedIn: https://www.linkedin.com/in/exiledfromsanity/
+    
