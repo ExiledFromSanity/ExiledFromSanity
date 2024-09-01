@@ -17,7 +17,7 @@
 </b>👨‍💻 I'm a Junior QA Engineer with hands-on experience in functional and regression testing of web and mobile applications. Proficient in writing and executing test cases, identifying bugs, and collaborating with development team to enhance product quality. Committed to delivering high-quality results and continuously improving testing processes.<br>                                    
 👨‍💻 Я Junior QA-инженер с практическим опытом функционального и регрессионного тестирования веб и мобильных приложений. Обладаю навыками написания и выполнения тест-кейсов, выявления багов и сотрудничества с командой разработчиков для повышения качества продукта. Стремлюсь к получению высококачественных результатов и постоянному совершенствованию процессов тестирования. </b>
 
-<h2>🛠️ Tools</h2>
+<h2>🛠️ Tools:</h2>
 </b>1. DevTools <br>
     2. HTML (basic) <br>
     3. CSS (basic) <br>
@@ -29,8 +29,14 @@
     9. SQL (basic) <br>
   10. Figma
     </b>
+
+<h2>🌍 Language:</h2>
+</b> 1. English (B1) <br>
+     2. Russian (C2) <br>
+     3. Ukrainian (C1) <br>
+     </b>
     
-<h2>🆓 Free Time</h2>
+<h2>🆓 Free Time:</h2>
 </b>🎮 В свободное время увлекаюсь игровой индустрией и играми. Играю на Xbox и ПК. 
 
 🎮 In my free-time i'm gaming. Play on Xbox and PC</b>
