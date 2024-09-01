@@ -14,16 +14,26 @@
   - [Diploma/Дипломный проект. ](https://docs.google.com/spreadsheets/d/1EEr43RoE3p4mf0TpCpde02ZyVUHxqx1zK8y0b649dVw/edit?usp=sharing)
 
 <h2>📺 About me: </h2>
-</b>👨‍💻 I'm a Junior QA Engineer with hands-on experience in functional and regression testing of web and mobile applications. Proficient in writing and executing test cases, identifying bugs, and collaborating with development team to enhance product quality. Committed to delivering high-quality results and continuously improving testing processes.                                         
-
+</b>👨‍💻 I'm a Junior QA Engineer with hands-on experience in functional and regression testing of web and mobile applications. Proficient in writing and executing test cases, identifying bugs, and collaborating with development team to enhance product quality. Committed to delivering high-quality results and continuously improving testing processes.<br>                                    
 👨‍💻 Я Junior QA-инженер с практическим опытом функционального и регрессионного тестирования веб и мобильных приложений. Обладаю навыками написания и выполнения тест-кейсов, выявления багов и сотрудничества с командой разработчиков для повышения качества продукта. Стремлюсь к получению высококачественных результатов и постоянному совершенствованию процессов тестирования. </b>
 
+<h2>🛠️ Tools</h2>
+</b>1. DevTools <br>
+    2. HTML (basic) <br>
+    3. CSS (basic) <br>
+    4. Swagger <br>
+    5. Postman <br>
+    6. Charles <br>
+    7. Android Studio <br>
+    8. Cygwin64 Terminal <br>
+    9. SQL (basic) <br>
+  10. Figma
+    </b>
+    
+<h2>🆓 Free Time</h2>
 </b>🎮 В свободное время увлекаюсь игровой индустрией и играми. Играю на Xbox и ПК. 
 
 🎮 In my free-time i'm gaming. Play on Xbox and PC</b>
 
-<h2>🎖 Certifications</h2>
-[Yandex Practikum]
-
 <h2> 🤳 Connect with me:</h2>
-</b>[email]: Romanooooov@gmail.com</b>
+</b>📧Gmail: Romanooooov@gmail.com</b>
