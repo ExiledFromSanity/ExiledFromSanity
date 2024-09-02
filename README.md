@@ -6,7 +6,7 @@
   - [First Project/Проект первого спринта. ](https://docs.google.com/spreadsheets/d/1oRWXKFguAdxklsjpyBn33LHJwDkbcA2bRMctpTVDqQg/edit?usp=sharing)
 - <b>Расширенное тестирование веб-приложений. Использование Charles и DevTools. </b>
   - [Second Project/Проект второго спринта. ](https://docs.google.com/spreadsheets/d/1ZC2WdZJGl4-W4rrKEVKXxo6ljibwvmmA-gg_iU7qaSA/edit?usp=sharing)
-- <b>Мобильное тестирование. Регрессивное и функциональное тестипрование. Использование Android Studio. </b>
+- <b>Мобильное тестирование. Регрессивное и функциональное тестирование. Использование Android Studio. </b>
   - [Third Project/Проект третьего спринта. ](https://docs.google.com/spreadsheets/d/1JZxmnfkSClcqxdCJspLhb3jRLU2rNpaqe4Qasg1JoMg/edit?usp=sharing)
 - <b>Тестирование API/Проект четвёртого спринта. Использование Postman и Swagger. </b>
   - [Fourth Project/Проект четвертого спринта. ](https://docs.google.com/spreadsheets/d/1fPRZk2bPzx4WddNkSUO9iGlh4pUllirT5bnGgZyUPXg/edit?usp=sharing)
