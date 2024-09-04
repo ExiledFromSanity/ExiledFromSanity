@@ -27,9 +27,9 @@
     7. Android Studio <br>
     8. Cygwin64 Terminal <br>
     9. SQL (basic) <br>
-  10. Figma
-  11. YouTrack 
-  12. Excel
+  10. Figma <br>
+  11. YouTrack <br>
+  12. Excel <br>
     </b>
 
 <h2>🌍 Language:</h2>
