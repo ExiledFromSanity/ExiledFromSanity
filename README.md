@@ -28,6 +28,8 @@
     8. Cygwin64 Terminal <br>
     9. SQL (basic) <br>
   10. Figma
+  11. YouTrack 
+  12. Excel
     </b>
 
 <h2>🌍 Language:</h2>
