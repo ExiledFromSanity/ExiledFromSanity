@@ -41,7 +41,7 @@
 <h2>🆓 Free Time:</h2>
 </b>🎮 В свободное время увлекаюсь игровой индустрией и играми. Играю на Xbox и ПК. 
 
-🎮 In my free-time i'm gaming. Play on Xbox and PC</b>
+🎮 In my free-time i'm playing video games. Play on Xbox and PC</b>
 
 <h2> 🤳 Connect with me:</h2>
 </b>Gmail: Romanooooov@gmail.com</b> <br>
